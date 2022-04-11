@@ -1,0 +1,27 @@
+div .main {
+background-color: black;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: x-large;
+color:blue
+}
+div .second{
+background-color: blue;
+font-size: larger;
+color:red
+
+}
+
+div .third{
+ background-color: yellowgreen;
+ font-style: italic;
+ color: blueviolet;
+ font-size: medium;
+
+}
+
+div .four{
+background-color: antiquewhite;
+font-size: medium;
+color: black;
+
+}
